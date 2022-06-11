@@ -1,2 +1,2 @@
-# PowerBI-Sells-
-In this project, I have created a report for sells team.
+# PowerBI-Sales Report-
+In this project, I have created a report for sales team.
