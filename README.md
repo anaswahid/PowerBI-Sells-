@@ -1,4 +1,5 @@
 # 📦 Global Sales Performance Dashboard – Power BI
+![image](https://github.com/user-attachments/assets/a7b3408c-b658-4742-81b4-64d20eacf595)
 
 This repository showcases an advanced, interactive Power BI dashboard for analyzing **global sales performance**. The dashboard provides deep insights into product profitability, customer orders, delivery times, regional performance, and order return trends—ideal for data-driven decision-making across sales and operations.
 
